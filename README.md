@@ -27,7 +27,13 @@ On this site, after authorization or registration, you can, depending on your ri
 This site could be useful for users of news sites to get information and also to participate in possible prize drawings.
 
 ### Examples of site work
-![1](https://github.com/ArtSoller/coffeeSite/blob/main/img/picture_1.png)
-![2](https://github.com/ArtSoller/coffeeSite/blob/main/img/picture_2.png)
-![3](https://github.com/ArtSoller/coffeeSite/blob/main/img/picture_3.png)
-![4](https://github.com/ArtSoller/coffeeSite/blob/main/img/picture_4.png)
+![1](https://github.com/ArtSoller/newsSite/blob/main/img/registration.png)
+![2](https://github.com/ArtSoller/newsSite/blob/main/img/admin.png)
+![3](https://github.com/ArtSoller/newsSite/blob/main/img/users.png)
+![4](https://github.com/ArtSoller/newsSite/blob/main/img/addShare.png)
+![5](https://github.com/ArtSoller/newsSite/blob/main/img/addShareItem.png)
+![6](https://github.com/ArtSoller/newsSite/blob/main/img/codeGenerationAndAddition.png)
+![7](https://github.com/ArtSoller/newsSite/blob/main/img/stockList.png)
+![8](https://github.com/ArtSoller/newsSite/blob/main/img/codeActivation.png)
+![9](https://github.com/ArtSoller/newsSite/blob/main/img/balanceUp.png)
+![10](https://github.com/ArtSoller/newsSite/blob/main/img/prizeOrder.png)
