@@ -21,7 +21,7 @@ Writing a news site with registration, administrative area, ability to write and
 &#x2611; Improve skills in using PHP
 
 ### What the project does
-On this site, after authorization or registration, you can, depending on your rights, either read news and participate in drawings - if you are a regular user. Or, if you are an administrator, you can create and edit news, track winnings and upload new promotions and promotional items.
+On this site, after authorization or registration, you can, depending on your rights, either read news and participate in drawings using codes to get points and spend them on promotional items - if you are a regular user. Or, if you are an administrator, you can create and edit news, track winnings, generate codes and upload new promotions and promotional items.
 
 ### Why the project is useful
 This site could be useful for users of news sites to get information and also to participate in possible prize drawings.
