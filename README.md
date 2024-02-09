@@ -11,18 +11,20 @@
 </p>
 
 ### Purpose of writing this project
-Learn the theory behind the JavaScript programming language and its applications
+Writing a news site with registration, administrative area, ability to write and edit articles, and prize drawings.
 
 ### Tasks of writing this project
-&#x2611; Familiarize myself with the JavaScript programming language
+&#x2611; To master XAMPP and phpMyAdmin at an adequate level
 
-&#9745; Come up with and develop a website with animation
+&#x2611; Sharpen skills in writing SQL queries
+
+&#x2611; Improve skills in using PHP
 
 ### What the project does
-This site offers the user a choice of several types of coffee, after selecting which - shows the composition of this coffee in proportions.
+On this site, after authorization or registration, you can, depending on your rights, either read news and participate in drawings - if you are a regular user. Or, if you are an administrator, you can create and edit news, track winnings and upload new promotions and promotional items.
 
 ### Why the project is useful
-This site could help future baristas memorize the composition and proportions of different types of coffee. It would also help customers who don't drink coffee often or who are not coffee savvy to choose coffee during the ordering process.
+This site could be useful for users of news sites to get information and also to participate in possible prize drawings.
 
 ### Examples of site work
 ![1](https://github.com/ArtSoller/coffeeSite/blob/main/img/picture_1.png)
