@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Artyom</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-## Computer science student, web programmer. This is my repository ***coffeeSite***
+## Computer science student, web programmer. This is my repository ***newsSite***
 ### My technology stack for that project
 <p>
     <img src="https://img.shields.io/badge/PHP-000000?style=for-thebadge&logo=php" height="32"/>
